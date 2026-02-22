@@ -1,4 +1,4 @@
-Here is the explanation of your **Student Registration Form** in simple and clear English:
+
 
 ---
 
@@ -90,4 +90,4 @@ For each qualification, the student enters:
 
 ---
 
-If you want, I can also give you a more professional or advanced explanation to impress interviewers.
+
